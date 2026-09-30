@@ -44,13 +44,19 @@ info@institutefortmj.com
 
 5. Data Sharing and Disclosure
 
-We do not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+Contact Information
+If you have any questions about this policy or our handling of personal information, please contact the message sender directly using the contact information provided on this website.
 
-We may share information with service providers that assist us in delivering SMS communications, provided they maintain the confidentiality and security of your information and use it only for authorized business purposes.
+Data Sharing and Disclosure
+We do not sell, share, or disclose your personal information or SMS consent data to third parties for marketing or any other independent purpose. Your data will not be transferred to external organizations. Limited disclosure may occur only when necessary to provide the SMS service through service providers that are contractually bound to process information solely on our behalf and to protect it appropriately.
 
-6. Data Security
+Protection of User Information
+We maintain clear measures to prevent unauthorized sharing of user data and to protect personal information from improper access, use, or disclosure.
 
-We use reasonable administrative, technical, and physical safeguards to protect your information from unauthorized access, disclosure, or misuse.
+Access to personal information is restricted to authorized personnel only.
+Staff are trained on privacy and data protection responsibilities.
+Vendors and service providers are subject to restrictions on the use and handling of data.
+Monitoring procedures are maintained to help detect and prevent unauthorized access or disclosure.
 
 7. Message and Data Rates
 
